@@ -1,4 +1,4 @@
 # Calculadora
-from tkinter import *
-from tkinter import ttk
+from interface import *
 
+janela.mainloop()
